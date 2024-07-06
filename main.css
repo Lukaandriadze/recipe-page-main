@@ -1,0 +1,31 @@
+body {
+    background-color:#F3E5D8;
+}
+
+.centerbox {
+    background-color: white;
+    border-radius: 20px;
+    height: 1600px;
+    width: 500px;
+    margin: 0 auto; /* Center the box horizontally */
+}
+.centerbox img{
+    border-radius: 20px;
+    width: 450px;
+    height: 250px;
+    margin-left:25px;
+    margin-top:25px;
+}
+.Timebox{
+
+    background-color:#F3E5D8;
+    border-radius: 20px;
+    height: 140px;
+    width: 450px;
+    margin: 0 auto;  
+    margin-top:25px;
+}
+.line{
+    width:400px;
+    margin: 0 auto;
+}
